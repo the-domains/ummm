@@ -1,0 +1,28 @@
+name: Ummm
+favicon: null
+layout_spectrum: 0.9469828512519598
+typography_spectrum: 0.21403504093177617
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3262271583080292
+  lightness: 0.03482696786522865
+  saturation: 0.36699629039503634
+  rhythmicContrast: 0.0021901349537074566
+purpose: []
